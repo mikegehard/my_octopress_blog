@@ -59,8 +59,6 @@ submit a [pull request](http://help.github.com/fork-a-repo/)
 to [the repository](https://github.com/msgehard/mikegehard_blog) or
 contact me on Twitter.
 
-Don't worry
-
 ## You assignments...if you choose to accept them
 
 ### One person's view on what it takes to become a software developer
