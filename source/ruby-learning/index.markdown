@@ -48,7 +48,7 @@ If you are interested in chatting more about this program, please
 reach out to me via [Twitter](http://www.twitter.com).
 My user name there is [mikegehard](http://twitter.com/#!/mikegehard).  Please
 include the [hashtag](http://support.twitter.com/articles/49309-what-are-hashtags-symbols)
-“#rubylearning” in your
+“[#newrubydevs](https://twitter.com/#!/search?q=%23newrubydevs)” in your
 tweet so I can track what people are saying about this program.
 
 Thanks in advance and I look forward to your feedback and questions.
