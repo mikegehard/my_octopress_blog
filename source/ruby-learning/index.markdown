@@ -59,7 +59,7 @@ submit a [pull request](http://help.github.com/fork-a-repo/)
 to [the repository](https://github.com/msgehard/mikegehard_blog) or
 contact me on Twitter.
 
-## You assignments...if you choose to accept them
+## You assignments...should you choose to accept them
 
 ### One person's view on what it takes to become a software developer
 1. Read this blog post: [http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
@@ -74,7 +74,8 @@ If you are running windows, checkout out this link: [http://nathanj.github.com/g
 
 2. Sign-up for a [GitHub](http://www.github.com) account
 
-3. Create a Hello World repo on Github. When you get this all complete, send me a tweet with a link to your GitHub
+3. Create a Hello World repo on Github. Push a file called README to this remote repository. This file should contain any 
+feedback you have to give on this exercise. When you get this all complete, send me a tweet with a link to your GitHub
  repository. These links will help get you started:
     * [How do I connect my local repositories to GitHub](http://help.github.com/mac-set-up-git/)
     * [How do I create a repository, make local changes and then push those changes to GitHub](http://help.github.com/create-a-repo/)
