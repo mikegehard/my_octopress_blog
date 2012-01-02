@@ -64,7 +64,15 @@ contact me on Twitter.
 ### One person's view on what it takes to become a software developer
 1. Read this blog post: [http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
 
+### Learn about the command line interface (aka CLI) in your operating system (OS) of your choice
+Many computer users don't know that there is a way to interact with a computer outside of the graphical
+user interface (GUI) that we have become so used to.  It is called the command line interface.  If you
+need a little help navigating this new world, or even a refresher about some aspects of it, check out
+the [CLI Crash Course](http://cli.learncodethehardway.org/).
+
 ### Learn Git and [GitHub](http://www.github.com)
+Source control management (SCM) systems are part of the daily life of a sofware developer. This is the place that all of our work lives.
+One of the more widely used SCMs is called Git. You will learn about source control in Git as your first assignment.
 #### Install Git on your system
 1.  Watch [Git Video Part 0](http://www.youtube.com/watch?v=vaNGbk6HN9Y&feature=related).
 If you are running windows, checkout out this link: [http://nathanj.github.com/gitguide/tour.html](http://nathanj.github.com/gitguide/tour.html)
