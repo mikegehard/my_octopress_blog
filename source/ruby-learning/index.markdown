@@ -79,6 +79,8 @@ feedback you have to give on this exercise. When you get this all complete, send
  repository. These links will help get you started:
     * [How do I connect my local repositories to GitHub](http://help.github.com/mac-set-up-git/)
     * [How do I create a repository, make local changes and then push those changes to GitHub](http://help.github.com/create-a-repo/)
+    * [SSH Issues](http://help.github.com/ssh-issues/)
+    * [What is this SSH thing you are talking about?](http://kimmo.suominen.com/docs/ssh)
 
 #### Install Ruby on your computer
 
