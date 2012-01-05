@@ -56,10 +56,12 @@ Thanks in advance and I look forward to your feedback and questions.
 Please check back often as I hope that the outline will continue to evolve
 with help from all of you.  To submit changes, please use GitHub to
 submit a [pull request](http://help.github.com/fork-a-repo/)
-to [the repository](https://github.com/msgehard/mikegehard_blog) or
+to [the repository](https://github.com/msgehard/my_octopress_blog) or
 contact me on Twitter.
 
 ## You assignments...should you choose to accept them
+Please follow the instructions to the letter.  Part of being a great software developer is the ability to 
+follow directions and attention to detail.
 
 ### One person's view on what it takes to become a software developer
 1. Read this blog post: [http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
