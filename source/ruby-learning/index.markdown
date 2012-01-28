@@ -147,4 +147,36 @@ and push that commit to your remote ‘my_solutions’ branch on GitHub.
     * If you get stuck or want to discuss a koan, push the code to a
     branch on GitHub other than master or my_solutions and send me a pull request via Github.
 
-## If you get this far, please contact me on Twitter (using the appropriate hashtag) and I'll add more work to your plate.
+#### Gain some insight about how to approach the huge universe of information about software
+Now you've got some Ruby chops and you should feel pretty confident about your ability to at least be
+able to read and write some basic Ruby. This gift comes with a price. The Internet is chock full of tutorials
+and information about learning programming languages. Take a moment to 
+read [this blog post](http://avdi.org/devblog/2011/12/29/stop-reading-this-blog-and-learn-something/) so you
+don't drown in this huge pool of information.
+
+#### Learn to build a website in Ruby on Rails
+1. Read about [the history of Ruby on Rails](http://en.wikipedia.org/wiki/Ruby_on_Rails)
+2. Fork [this repository](https://github.com/msgehard/RubyOnRailsTutorial)
+3. Clone the fork to your computer
+4. Work thorugh the book. As you complete your exercises, push your changes to your fork of the 
+repo.
+5. If you run into an issue, create a separate branch for the issue, push the branch to Github and 
+submit a pull request so I can help out.
+
+#### Begin to think about a career in software development
+You are beginning to have the skills it takes to become a software developer. You may still be a ways off
+from looking for a job doing software development but it is never too early to start thinking about it.
+Pick up a copy of Chad Fowler's book 
+["The Passionate Programmer"](http://pragprog.com/book/cfcar2/the-passionate-programmer) and learn some things
+about how to think about your career in software development.
+
+#### Let's build something together
+You've come a long way and now it's time to get serious. You've got some skills and now it is time to hone them
+to a sharp edge. Think of a problem that could be solved by a web based application. It's time to start building
+that application. When you get to this step, reach out to me via Twitter (mikegehard) and we'll start the
+discussion about how we are going to pair to build your application.
+
+## Additional Reading
+* [The RSpec Book](http://pragprog.com/book/achbd/the-rspec-book)
+* [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=sr_1_1?ie=UTF8&qid=1327782160&sr=8-1)
+* [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452/ref=sr_1_1?s=books&ie=UTF8&qid=1327782183&sr=1-1)
