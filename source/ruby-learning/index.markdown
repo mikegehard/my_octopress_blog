@@ -66,6 +66,10 @@ follow directions and attention to detail.
 ### One person's view on what it takes to become a software developer
 1. Read this blog post: [http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
 
+### Another person's view on what it takes to become a software developer
+1. Read this blog post: [http://brandonhays.com/blog/2012/01/23/learning-to-program-part-i-how-i-did-it/](http://brandonhays.com/blog/2012/01/23/learning-to-program-part-i-how-i-did-it/)
+and the two associated posts that are linked to from this article.
+
 ### Learn about the command line interface (aka CLI) in your operating system (OS) of your choice
 Many computer users don't know that there is a way to interact with a computer outside of the graphical
 user interface (GUI) that we have become so used to.  It is called the command line interface.  If you
