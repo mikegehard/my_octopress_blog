@@ -96,6 +96,10 @@ feedback you have to give on this exercise. When you get this all complete, send
     * [SSH Issues](http://help.github.com/ssh-issues/)
     * [What is this SSH thing you are talking about?](http://kimmo.suominen.com/docs/ssh)
 
+#### Learn all that you can about git
+1. Go through the [Git Immersion](http://gitimmersion.com/). If you have any questions, you
+can refer to the [ProGit](http://progit.org/book) book or send me a tweet on Twitter.
+
 ### Install Ruby on your computer
 
 #### Mac (NOTE: Ruby is pre-installed but is a very old version. We will not use this version.)
