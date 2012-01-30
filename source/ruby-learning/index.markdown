@@ -59,7 +59,7 @@ submit a [pull request](http://help.github.com/fork-a-repo/)
 to [the repository](https://github.com/msgehard/my_octopress_blog) or
 contact me on Twitter.
 
-## You assignments...should you choose to accept them
+## Your assignments...should you choose to accept them
 Please follow the instructions to the letter.  Part of being a great software developer is the ability to 
 follow directions and attention to detail.
 
