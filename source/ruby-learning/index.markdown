@@ -96,25 +96,25 @@ feedback you have to give on this exercise. When you get this all complete, send
     * [SSH Issues](http://help.github.com/ssh-issues/)
     * [What is this SSH thing you are talking about?](http://kimmo.suominen.com/docs/ssh)
 
-#### Install Ruby on your computer
+### Install Ruby on your computer
 
-##### Mac (NOTE: Ruby is pre-installed but is a very old version. We will not use this version.)
+#### Mac (NOTE: Ruby is pre-installed but is a very old version. We will not use this version.)
 1. Install the GCC compiler from [https://github.com/kennethreitz/osx-gcc-installer](https://github.com/kennethreitz/osx-gcc-installer)
 2. [Install RVM](http://beginrescueend.com/rvm/install/). You want the single user install.
     * Don’t worry about reading the script because it will probably be as understandable as Latin at this point.  If you want to read it, please feel free.
 3. [Install latest version of ruby](http://beginrescueend.com/rubies/installing/) (currently 1.9.3-p0) using RVM.
 
-##### Windows
+#### Windows
 1. Install [Pik](https://github.com/vertiginous/pik/)
 2. Install ruby 1.9.3-p0
 
 NOTE: If you have any questions, please let me know. I don’t use a PC everyday but I can help point you
 in the correct direction.
 
-##### Linux
+#### Linux
 1. Try to follow the Mac instructions and let me know if you have any questions.
 
-#### Get basic background in Ruby
+### Get basic background in Ruby
 1.  Fork [this repository](https://github.com/msgehard/LearnRubyTheHardWay) and
 clone your fork into a directory on computer.
     * For help check out [http://help.github.com/fork-a-repo/](http://help.github.com/fork-a-repo/)
@@ -134,7 +134,7 @@ If you have questions about an exercise, follow these steps for submitting your 
 
 We will then use comments in that pull request to as the first mechanism to talk about the issue.  If we need to chat either on Skype or face to face we can do that as well.
 
-#### Begin to understand test driven development in Ruby
+### Begin to understand test driven development in Ruby
 
 Testing in important in the Ruby community for many reasons. I could talk your ear off about this so please email me to set up a time to chat about it if you’d like to hear more.
 
@@ -151,14 +151,14 @@ and push that commit to your remote ‘my_solutions’ branch on GitHub.
     * If you get stuck or want to discuss a koan, push the code to a
     branch on GitHub other than master or my_solutions and send me a pull request via Github.
 
-#### Gain some insight about how to approach the huge universe of information about software
+### Gain some insight about how to approach the huge universe of information about software
 Now you've got some Ruby chops and you should feel pretty confident about your ability to at least be
 able to read and write some basic Ruby. This gift comes with a price. The Internet is chock full of tutorials
 and information about learning programming languages. Take a moment to 
 read [this blog post](http://avdi.org/devblog/2011/12/29/stop-reading-this-blog-and-learn-something/) so you
 don't drown in this huge pool of information.
 
-#### Learn to build a website in Ruby on Rails
+### Learn to build a website in Ruby on Rails
 1. Read about [the history of Ruby on Rails](http://en.wikipedia.org/wiki/Ruby_on_Rails)
 2. Fork [this repository](https://github.com/msgehard/RubyOnRailsTutorial)
 3. Clone the fork to your computer
@@ -167,14 +167,14 @@ repo.
 5. If you run into an issue, create a separate branch for the issue, push the branch to Github and 
 submit a pull request so I can help out.
 
-#### Begin to think about a career in software development
+### Begin to think about a career in software development
 You are beginning to have the skills it takes to become a software developer. You may still be a ways off
 from looking for a job doing software development but it is never too early to start thinking about it.
 Pick up a copy of Chad Fowler's book 
 ["The Passionate Programmer"](http://pragprog.com/book/cfcar2/the-passionate-programmer) and learn some things
 about how to think about your career in software development.
 
-#### Let's build something together
+### Let's build something together
 You've come a long way and now it's time to get serious. You've got some skills and now it is time to hone them
 to a sharp edge. Think of a problem that could be solved by a web based application. It's time to start building
 that application. When you get to this step, reach out to me via Twitter (mikegehard) and we'll start the
