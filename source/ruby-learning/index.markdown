@@ -171,6 +171,12 @@ repo.
 5. If you run into an issue, create a separate branch for the issue, push the branch to Github and 
 submit a pull request so I can help out.
 
+### Refine your knowledge about how to build a website in Ruby on Rails
+Rails is a great framework for quickly building web applications. As Rails projects grow, they
+suffer some maintainability problems. Get a copy of 
+[Objects on Rails](http://avdi.org/devblog/2011/11/15/early-access-beta-of-objects-on-rails-now-available-2/)
+and begin to refine your knowledge of how Rails apps are built.
+
 ### Begin to think about a career in software development
 You are beginning to have the skills it takes to become a software developer. You may still be a ways off
 from looking for a job doing software development but it is never too early to start thinking about it.
