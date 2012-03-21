@@ -143,17 +143,8 @@ We will then use comments in that pull request to as the first mechanism to talk
 Testing in important in the Ruby community for many reasons. I could talk your ear off about this so please email me to set up a time to chat about it if you’d like to hear more.
 
 1. Read about [test driven development](http://en.wikipedia.org/wiki/Test-driven_development)
-2. Fork [this repository](https://github.com/msgehard/ruby_koans)
-3. Clone your fork to your computer
-4. Read the README.rdoc to get started
-5. Create a branch in your repository called “my_solutions” and switch to that branch.
-6. Every time you finish a koan file, create a Git commit in the ‘my_solutions’ branch
-and push that commit to your remote ‘my_solutions’ branch on GitHub.
-    * The commit message should contain any thoughts you had about that file.
-    *  These will be notes to yourself about that file.
-    * You can go back later and read these notes you made to yourself.
-    * If you get stuck or want to discuss a koan, push the code to a
-    branch on GitHub other than master or my_solutions and send me a pull request via Github.
+2. Clone [this repository](https://github.com/edgecase/ruby_koans) to your computer
+3. Read the README.rdoc to get started
 
 ### Gain some insight about how to approach the huge universe of information about software
 Now you've got some Ruby chops and you should feel pretty confident about your ability to at least be
