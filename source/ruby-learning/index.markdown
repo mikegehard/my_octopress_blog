@@ -182,6 +182,7 @@ that application. When you get to this step, reach out to me via Twitter (mikege
 discussion about how we are going to pair to build your application.
 
 ## Additional Reading
+* [Growing Object Oriented Software, Guided By Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 * [The RSpec Book](http://pragprog.com/book/achbd/the-rspec-book)
 * [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=sr_1_1?ie=UTF8&qid=1327782160&sr=8-1)
 * [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452/ref=sr_1_1?s=books&ie=UTF8&qid=1327782183&sr=1-1)
